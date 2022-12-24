@@ -4,7 +4,7 @@ function positiveSum(arr) {
 
 
 
-//
+// alternate way
 function positiveSum(arr){
   let sum = 0 ;
   for (let item of arr){
